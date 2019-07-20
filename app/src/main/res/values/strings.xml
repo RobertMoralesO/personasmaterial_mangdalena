@@ -8,4 +8,6 @@
     <string name="Agregar">Agregar</string>
     <string name="limpiar">Limpiar</string>
     <string name="mensaje">Persona Guardada Exitosamente!!</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="titulo_detalle">Detalle de la Persona</string>
 </resources>
